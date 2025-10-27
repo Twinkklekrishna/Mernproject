@@ -1,0 +1,5 @@
+
+{
+  "name": "TeamPulse – Real-Time Employee Performance Tracker",
+  "description": "A web-based employee performance tracking system that lets managers add, view, edit, and delete employees, and record their performance scores, tasks, and progress. The UI provides a modern dashboard with real-time updates simulated from a mock API."
+}
